@@ -10,7 +10,7 @@ The system is modelled following Charpinet et al 2011, Supplementary Information
 
 A star with temperature
 $T_{\*}$
-emits black body radiation with power $ L_* $. The orbit of each planet in the system is circular and has a radius of $d_i$. The radius of the $i$-th planet is $r_i$. A portion of the star's radiation equal to the albedo $α_i$ of the planet falling on it is immediately reflected by its surface. The remaining part of the falling radiation is absorbed and heats the planet. All absorbed energy is re-emitted. The bright side of the planet has a temperature $T_{ib}$. It is determined from the formula
+emits black body radiation with power $L_{\*}$. The orbit of each planet in the system is circular and has a radius of $d_i$. The radius of the $i$-th planet is $r_i$. A portion of the star's radiation equal to the albedo $α_i$ of the planet falling on it is immediately reflected by its surface. The remaining part of the falling radiation is absorbed and heats the planet. All absorbed energy is re-emitted. The bright side of the planet has a temperature $T_{ib}$. It is determined from the formula
 $$T_{ib} = (1 - α_i) / (8πσ) * L_* / d_i^2 * 1 / (1 + β_i^4)^{1/4},$$
 where $β$ is a constant defined to describe the degree of energy redistribution from the star to the planet's surface.
 
