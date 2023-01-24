@@ -1,5 +1,5 @@
 # planetary system light curve simulation
- code that allows to generate synthetic light curves of planetary systems, could be used to study detectability of planets through fourier transform of the light curve
+ code that allows to generate and visualise synthetic light curves and their Fourier spectrums of planetary systems with given parameters, could be used to study detectability of planets with this method
 
 
 ## Model
@@ -39,3 +39,10 @@ In addition, light pollution from the sun is a problem for ground-based observer
 Additionally, the simulation took into account typical noise for physical measurements, i.e. a value drawn from a normal distribution with a standard deviation of $σ$ was added to each measurement value.
 
 It was assumed that the phase of all planets was the same at the start of the observation.
+
+
+## Interpretation of the Fourier spectrum
+
+The variability in the power of the radiation reflected and emitted by the planet causes it to introduce a harmonic component to the power of the system's radiation. For this reason, the planet's signature can be found in the Fourier spectrum of planetary systems light curves. This would be a peak above the noise for the frequency at which the planet orbits the star.
+
+The maximum values of the transform corresponding to the signature are related to the amplitude of the signal component corresponding to the planet. If the maximum value is greater, the amplitude of the signal component is also greater. The value of the amplitude is affected by the planet's size, parameters $\beta$, $d$, $i$, and $\alpha$."
