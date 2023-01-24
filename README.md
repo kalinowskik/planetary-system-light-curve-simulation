@@ -26,10 +26,7 @@ where $λ$ is the wavelength, $B_λ$ is the Planck distribution for a body at te
 
 The power of the planet on the side facing the observer can be described by the formula:
 
-$$
-L_i=L_{\*}\frac{\alpha_i}{8}\frac{r_i^2}{d_i^2}+2\pi r_i^2(F(T_b)+F(T_d))
-    +(L_{\*}\frac{\alpha_i}{8}\frac{r_i^2}{d_i^2}+2\pi r_i^2(F(T_b)-F(T_d)))\sin{i_i}\sin{\phi(t)}\text{,}
-$$
+$$L_i = \frac{L_{\*} α_i}{8} * \frac{r_i^2}{d_i^2} + 2π r_i^2 (F(T_b) + F(T_d)) + (L_{\*} α_i / 8 * r_i^2 / d_i^2 + 2π r_i^2 (F(T_b) - F(T_d))) \sin(i_i) \sin(ϕ(t))$$
 where $i$ is the inclination of the planet's orbit and $ϕ(t)$ is the anomaly dependent on time.
 
 ### Observation Mechanics
