@@ -45,4 +45,4 @@ It was assumed that the phase of all planets was the same at the start of the ob
 
 The variability in the power of the radiation reflected and emitted by the planet causes it to introduce a harmonic component to the power of the system's radiation. For this reason, the planet's signature can be found in the Fourier spectrum of planetary systems light curves. This would be a peak above the noise for the frequency at which the planet orbits the star.
 
-The maximum values of the transform corresponding to the signature are related to the amplitude of the signal component corresponding to the planet. If the maximum value is greater, the amplitude of the signal component is also greater. The value of the amplitude is affected by the planet's size, parameters $\beta$, $d$, $i$, and $\alpha$."
+The maximum values of the transform corresponding to the signature are related to the amplitude of the signal component corresponding to the planet. If the maximum value is greater, the amplitude of the signal component is also greater. The value of the amplitude is affected by the planet's size, parameters $\beta$, $d$, $i$, and $\alpha$.
